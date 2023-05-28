@@ -14,9 +14,9 @@
     --color-celeste:#68b6ff;
     --color-blanco: #FFFFFF;
     --color-gris: hsla(0, 0%, 100%, 0.61);}
-body{background-color:#000000};
+
 header{
-    padding: 0.2em;
+    padding: 0.5em;
     display:flex;
     }
 
